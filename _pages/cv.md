@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, San Diego State University, 2021
+* B.S. in Economics, San Diego State University, 2021
 * M.S. in Applied Economics, 2024
 
 Research experience
