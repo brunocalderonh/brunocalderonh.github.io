@@ -1,5 +1,5 @@
 ---
-title: "Beliefs & Demand for Mental Health Services Among University Students <span style='color: red; font-weight: bold;'>{! NEW paper}</span>"
+title: "Beliefs & Demand for Mental Health Services Among University Students"
 collection: publications
 permalink: /publication/2025-mental-health-beliefs
 excerpt: 'This paper examines the impact of beliefs and stigma on the use of mental health services among university students in Mexico.'
