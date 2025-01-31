@@ -15,5 +15,8 @@ As a researcher, my ultimate goal is to better understand the underlying structu
 Within my webpage you can find my [CV](files/CV.pdf), my and my [current research](https://brunocalderonh.github.io/publications/).
 
 
+Contact Information
+---
 
+You can reach me at my institutional email [bruno.calderon@itam.mx](bruno.calderon@itam.mx), or at my personal email [brunocalderon45@hotmail.com](brunocalderon45@hotmail.com).
 
