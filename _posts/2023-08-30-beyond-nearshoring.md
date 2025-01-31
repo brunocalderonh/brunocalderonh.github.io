@@ -5,8 +5,6 @@ permalink: /posts/2023/08/beyond-nearshoring/
 tags:
   - nearshoring
   - trade
-original_source: "[El Supuesto](http://blog.elsupuesto.com/nacional/2023/08/beyond-nearshoring-reflexiones-sobre-la-trayectoria-economica-de-mexico-y-su-futuro-sostenible/)"
-
 ---
 
 Despite the enthusiasm surrounding the rise of nearshoring and Mexico’s consolidation as a key trade partner of the United States, it is crucial to consider the global landscape and the risks of this dynamic. Mexico has strengthened its presence in global trade, but this progress does not necessarily indicate autonomous and robust economic development. The heavy reliance on the maquiladora industry demonstrates an economy that exports goods with limited added value, without focusing on boosting productivity and endogenous growth, as proposed by the Kaldor-Verdoorn law. This approach has kept Mexico in a cycle of minimal investment in human capital formation and technology.
@@ -21,6 +19,9 @@ Mexico’s position as North America’s “workshop” carries consequences. Ac
 
 Nearshoring may present immediate benefits for Mexico, but a forward-looking vision that promotes innovation and investment in both education and technology is essential. Kaldor-Verdoorn emphasizes the importance of industrialization and productivity increases for long-term development.
 
-Nearshoring could serve as a window of opportunity for Mexico, but it is crucial to analyze both its benefits and future risks. Simply participating in supply chains does not guarantee sustained and fair development. It is imperative to rethink the growth model and adopt a more comprehensive and enduring strategy. .[^1]
+Nearshoring could serve as a window of opportunity for Mexico, but it is crucial to analyze both its benefits and future risks. Simply participating in supply chains does not guarantee sustained and fair development. It is imperative to rethink the growth model and adopt a more comprehensive and enduring strategy.[^1]
+
+[^1]: This is an opinion piece translated from spanish, found in [El Supuesto](http://blog.elsupuesto.com/nacional/2023/08/beyond-nearshoring-reflexiones-sobre-la-trayectoria-economica-de-mexico-y-su-futuro-sostenible/).
+
 
 
