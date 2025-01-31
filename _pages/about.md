@@ -12,7 +12,7 @@ My name is Bruno Calderón Hernández. I hold a Master’s in Applied Economics 
 
 As a researcher, my ultimate goal is to better understand the underlying structures and mechanisms that perpetuate poverty and inequality, particularly in underdeveloped regions of the world.
 
-Within my webpage you can find my [CV](files/CV.pdf), my and my{ current research](https://brunocalderonh.github.io/publications/).
+Within my webpage you can find my [CV](files/CV.pdf), my and my [current research](https://brunocalderonh.github.io/publications/).
 
 
 
