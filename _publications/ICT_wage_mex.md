@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'his papers analyzes wage dynamics in Mexico from a structural perspective, exploring how digital skills, work experience, and geographical location influence workers’ earnings.'
 date: 2022-10-15
-venue: 'L’Harmattan Editorial'
+venue: 'L’Harmattan Editorial' (Accepted for Publication)
 paperurl: ''
 citation: 'Calderón-Hernández, B., Huesca, L., & Calderon, C. (2023). &quot;Wage Inequality in Mexico
 Associated with the Use of ICT, Economic Sectors, and Geographical Location.&quot;
