@@ -1,5 +1,5 @@
 ---
-title: 'Deciphering NFTs: Digital Innovation or Temporary Bubble3'
+title: 'Deciphering NFTs: Digital Innovation or Temporary Bubble'
 date: 2023-09-27
 permalink: /posts/2023/09/NFT-bubble/
 tags:
