@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bruno Calderón Hernández. I hold a Master’s in Applied Economics from ITAM and am currently in the process of completing a Master’s in Economic Theory. My primary research interests lie in causal inference, applied econometrics, and politcal economic. I'm very interested in studying the causal mechanisms of industrial policies, and their impact on socioeconomic well-being.
+My name is Bruno Calderón Hernández. I hold a Master’s degree in Applied Economics from ITAM and am currently completing a second Master’s in Economic Theory. My primary research interests lie in causal inference, applied econometrics, and political economy. I am particularly interested in studying the causal mechanisms behind industrial policies and their impact on socioeconomic well-being.
 
-As a researcher, my ultimate goal is to better understand the underlying structures and mechanisms that perpetuate poverty and inequality, particularly in underdeveloped regions of the world.
+As a researcher, my ultimate goal is to deepen our understanding of the structures and mechanisms that perpetuate poverty and inequality, especially in underdeveloped regions of the world.
 
 Within my webpage you can find my [CV](files/CV.pdf), my and my [current research](https://brunocalderonh.github.io/publications/).
 
