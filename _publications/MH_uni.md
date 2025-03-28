@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-mental-health-beliefs
 excerpt: 'This paper examines the impact of beliefs and stigma on the use of mental health services among university students in Mexico.'
 date: 2025-01-01
-venue: 'Journal of Development Economics (Submitted)'
+venue: 'Journal of Development Economics (Under Review)'
 paperurl: 'https://brunocalderonh.github.io/files/Student_Mental_Health.pdf'
 citation: 'Batmanov, A., Grigoryeva, I., Calderón-Hernández, B., Gonzalez-Tellez, R., & Guardiola, A. (2025). &quot;Beliefs & Demand for Mental Health Services Among University Students.&quot; Journal of Development Economics. (Submitted).'
 ---
