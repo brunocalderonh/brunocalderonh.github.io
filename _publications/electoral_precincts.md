@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-mexico-electoral-database
 excerpt: 'This paper presents a database of electoral precinct-level election returns for Mexican municipal elections from 1994 to 2019.'
 date: 2024-01-01
-venue: 'Nature Scientific Data Collection: Politics and Elections Data (Under Review)'
+venue: 'Nature Scientific Data Collection: Politics and Elections Data (Accepted for Publication)'
 paperurl: 'https://brunocalderonh.github.io/files/electoral_recint_level_database.pdf'
 citation: 'Calderón-Hernández, B., Larreguy, H., Marshall, J., & Perez Castellanos, J. L. (2024). &quot;Electoral Precinct-Level Database for Mexican Municipal Elections.&quot; Nature Scientific Data Collection: Politics and Elections Data. (Under Review).'
 ---
